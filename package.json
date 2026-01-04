@@ -1,0 +1,23 @@
+{
+    "name": "first-threejs-project",
+    "version": "1.0.0",
+    "description": "First Three.js Project\r Premier projet utilisant Three.js, dans le cadre du cours Three.js Journey de Bruno Simon.",
+    "homepage": "https://github.com/ArthurJenck/First-ThreeJs-Project#readme",
+    "bugs": {
+        "url": "https://github.com/ArthurJenck/First-ThreeJs-Project/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ArthurJenck/First-ThreeJs-Project.git"
+    },
+    "license": "ISC",
+    "author": "Arthur Jenck",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "vite": "^7.3.0"
+    }
+}
